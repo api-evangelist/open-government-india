@@ -39,7 +39,6 @@ apis:
   - name: Open Government, India
     description: "Indian Government Open Data"
     humanURL: https://data.gov.in/
-    baseURL: https://data.gov.in/
     tags:
       - Government
     properties:
